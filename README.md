@@ -4,4 +4,4 @@ This little project interactively takes text and translates it to "urd" text. Th
 This project was primarily a way to get more familiar with rust.
 
 ## Edges of the keyboard
-The matter of how to deal with the edges of the keyboard were a little tricky. Thanks to Chase for suggesting a wraparound solution. If you have a cylindrical keyboard, this should make perfect sense to you.
+The matter of how to deal with the edges of the keyboard were a little tricky. Thanks to [Chase](https://github.com/ChaseWesthoff) for suggesting a wraparound solution. If you have a cylindrical keyboard, this should make perfect sense to you.
